@@ -7,7 +7,7 @@ I'm Dũng, and I'm a front-end developer. I like making useful and user-friendly
 - HTML
 - CSS
 - JavaScript
-- React
+- React basics
 - Git
 
 ## Projects

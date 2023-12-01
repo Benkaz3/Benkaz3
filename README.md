@@ -2,6 +2,8 @@
 
 I'm Dũng, and I'm a front-end developer. I like making useful and user-friendly web apps. I'm currently seeking an internship/fresher role as a web developer, where I can continue to learn and grow.
 
+Check out my [portfolio](https://dungtran.me/)
+
 ## Technical Skills
 
 - HTML
